@@ -1,0 +1,15 @@
+{
+    "manifest": {
+        "author": "Dark・MD 3.0ᴺᴴ ᵈʳ#4452",
+        "name": "TheCity",
+        "version": "1.0.0",
+        "license": "Apache License 2.0"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/811255667469582420\/898490080396722236\/images_16.jpeg"
+    },
+    "fonts": {},
+    "simple_colors": {},
+    "colors": {},
+    "drawable_tints": {}
+}
